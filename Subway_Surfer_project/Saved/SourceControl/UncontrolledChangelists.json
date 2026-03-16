@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/paula/OneDrive/Documents/Unreal Projects/workshop/workshop/Subway_Surfer_project/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/L3/X4W470Z2HEG6U3YEZUVS1O.uasset",
+				"C:/Users/paula/OneDrive/Documents/Unreal Projects/workshop/workshop/Subway_Surfer_project/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/HC/O7ZMJJGW7UV5BBVCZ8BR7W.uasset",
+				"C:/Users/paula/OneDrive/Documents/Unreal Projects/workshop/workshop/Subway_Surfer_project/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/91/QQHL5C4DEI6JBZ0N82CO95.uasset",
+				"C:/Users/paula/OneDrive/Documents/Unreal Projects/workshop/workshop/Subway_Surfer_project/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/J3/5RCZES9YI8F7JXQ1EBQGAB.uasset",
+				"C:/Users/paula/OneDrive/Documents/Unreal Projects/workshop/workshop/Subway_Surfer_project/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/AM/9YGDW7FMEY1CZD31VUYO11.uasset"
+			]
+		}
+	]
+}

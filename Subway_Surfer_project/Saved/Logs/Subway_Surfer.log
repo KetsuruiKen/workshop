@@ -1222,3 +1222,84 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.03.16-09.21.49:681][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000000 seconds (updated 0 objects)
 [2026.03.16-09.21.49:681][  1]LogSourceControl: Uncontrolled asset discovery started...
 [2026.03.16-09.21.49:878][  5]LogSourceControl: Uncontrolled asset discovery finished in 0.197115 seconds (Found 7410 uncontrolled assets)
+[2026.03.16-09.22.14:522][479]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2026.03.16-09.22.14:576][480]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2026.03.16-09.22.14:653][482]Cmd: EDIT COPY
+[2026.03.16-09.22.14:810][490]Cmd: EDIT PASTE
+[2026.03.16-09.22.24:348][ 26]Cmd: EDIT COPY
+[2026.03.16-09.22.24:502][ 35]Cmd: EDIT PASTE
+[2026.03.16-09.22.29:362][317]Cmd: EDIT COPY
+[2026.03.16-09.22.29:533][327]Cmd: EDIT PASTE
+[2026.03.16-09.22.32:481][495]Cmd: EDIT COPY
+[2026.03.16-09.22.32:652][505]Cmd: EDIT PASTE
+[2026.03.16-09.22.53:028][661]LogSlate: Took 0.006472 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2026.03.16-09.22.56:704][851]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.03.16-09.22.57:321][851]LogSlate: Window 'Save Content' being destroyed
+[2026.03.16-09.22.57:345][851]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.16-09.22.57:457][851]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/L3/X4W470Z2HEG6U3YEZUVS1O
+[2026.03.16-09.22.57:457][851]LogSavePackage: Moving '../../../../../../Users/paula/OneDrive/Documents/Unreal Projects/workshop/workshop/Subway_Surfer_project/Saved/X4W470Z2HEG6U3YEZUVS1O285462244660505EF82BCFA78749163C.tmp' to '../../../../../../Users/paula/OneDrive/Documents/Unreal Projects/workshop/workshop/Subway_Surfer_project/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/L3/X4W470Z2HEG6U3YEZUVS1O.uasset'
+[2026.03.16-09.22.57:463][851]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/HC/O7ZMJJGW7UV5BBVCZ8BR7W
+[2026.03.16-09.22.57:463][851]LogSavePackage: Moving '../../../../../../Users/paula/OneDrive/Documents/Unreal Projects/workshop/workshop/Subway_Surfer_project/Saved/O7ZMJJGW7UV5BBVCZ8BR7WCE56CF5647F4362132573FAD76D71558.tmp' to '../../../../../../Users/paula/OneDrive/Documents/Unreal Projects/workshop/workshop/Subway_Surfer_project/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/HC/O7ZMJJGW7UV5BBVCZ8BR7W.uasset'
+[2026.03.16-09.22.57:469][851]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/91/QQHL5C4DEI6JBZ0N82CO95
+[2026.03.16-09.22.57:469][851]LogSavePackage: Moving '../../../../../../Users/paula/OneDrive/Documents/Unreal Projects/workshop/workshop/Subway_Surfer_project/Saved/QQHL5C4DEI6JBZ0N82CO95ACE536B4443FA216F951E39C02BE25AA.tmp' to '../../../../../../Users/paula/OneDrive/Documents/Unreal Projects/workshop/workshop/Subway_Surfer_project/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/91/QQHL5C4DEI6JBZ0N82CO95.uasset'
+[2026.03.16-09.22.57:475][851]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/J3/5RCZES9YI8F7JXQ1EBQGAB
+[2026.03.16-09.22.57:475][851]LogSavePackage: Moving '../../../../../../Users/paula/OneDrive/Documents/Unreal Projects/workshop/workshop/Subway_Surfer_project/Saved/5RCZES9YI8F7JXQ1EBQGAB5F807EFC44E23D08FC2AEC83B6159767.tmp' to '../../../../../../Users/paula/OneDrive/Documents/Unreal Projects/workshop/workshop/Subway_Surfer_project/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/J3/5RCZES9YI8F7JXQ1EBQGAB.uasset'
+[2026.03.16-09.22.57:481][851]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/AM/9YGDW7FMEY1CZD31VUYO11
+[2026.03.16-09.22.57:481][851]LogSavePackage: Moving '../../../../../../Users/paula/OneDrive/Documents/Unreal Projects/workshop/workshop/Subway_Surfer_project/Saved/9YGDW7FMEY1CZD31VUYO1118BC164649211258C30193BEB8B62CA0.tmp' to '../../../../../../Users/paula/OneDrive/Documents/Unreal Projects/workshop/workshop/Subway_Surfer_project/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/AM/9YGDW7FMEY1CZD31VUYO11.uasset'
+[2026.03.16-09.22.57:491][851]LogFileHelpers: InternalPromptForCheckoutAndSave took 146.260 ms
+[2026.03.16-09.22.57:595][851]LogContentValidation: Display: Starting to validate 5 assets
+[2026.03.16-09.22.57:595][851]LogContentValidation: Enabled validators:
+[2026.03.16-09.22.57:595][851]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.16-09.22.57:595][851]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.16-09.22.57:595][851]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.16-09.22.57:595][851]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.16-09.22.57:595][851]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.16-09.22.57:595][851]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.16-09.22.57:596][851]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validating asset
+[2026.03.16-09.22.57:614][851]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/paula/OneDrive/Documents/Unreal Projects/workshop/workshop/Subway_Surfer_project/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.16-09.22.59:380][954]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2026.03.16-09.22.59:400][954]LogStall: Shutdown...
+[2026.03.16-09.22.59:400][954]LogStall: Shutdown complete.
+[2026.03.16-09.22.59:422][954]LogSlate: Window 'Subway_Surfer - Unreal Editor' being destroyed
+[2026.03.16-09.22.59:482][954]Cmd: QUIT_EDITOR
+[2026.03.16-09.22.59:483][955]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.03.16-09.22.59:485][955]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.03.16-09.22.59:485][955]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.03.16-09.22.59:485][955]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.03.16-09.22.59:486][955]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.03.16-09.22.59:487][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.16-09.22.59:487][955]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.03.16-09.22.59:490][955]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.03.16-09.22.59:490][955]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.03.16-09.22.59:491][955]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.03.16-09.22.59:493][955]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.03.16-09.22.59:493][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.16-09.22.59:494][955]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.03.16-09.22.59:494][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.16-09.22.59:494][955]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.03.16-09.22.59:494][955]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.03.16-09.22.59:498][955]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.03.16-09.22.59:499][955]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.03.16-09.22.59:499][955]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.03.16-09.22.59:499][955]LogAudio: Display: Audio Device unregistered from world 'Lvl_ThirdPerson'.
+[2026.03.16-09.22.59:499][955]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.03.16-09.22.59:499][955]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.03.16-09.22.59:501][955]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.03.16-09.22.59:508][955]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.03.16-09.22.59:508][955]LogAudio: Display: Audio Device Manager Shutdown
+[2026.03.16-09.22.59:508][955]LogWindowsTextInputMethodSystem: Activated input method: Français (France) - (Keyboard).
+[2026.03.16-09.22.59:511][955]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.03.16-09.22.59:512][955]LogExit: Preparing to exit.
+[2026.03.16-09.22.59:537][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.03.16-09.23.00:516][955]LogEditorDataStorage: Deinitializing
+[2026.03.16-09.23.00:617][955]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.03.16-09.23.00:626][955]LogExit: Editor shut down
+[2026.03.16-09.23.00:627][955]LogExit: Transaction tracking system shut down
+[2026.03.16-09.23.00:687][955]LogExit: Object subsystem successfully closed.
+[2026.03.16-09.23.00:743][955]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.03.16-09.23.00:837][955]LogMemoryProfiler: Shutdown
+[2026.03.16-09.23.00:837][955]LogNetworkingProfiler: Shutdown
+[2026.03.16-09.23.00:837][955]LoadingProfiler: Shutdown
+[2026.03.16-09.23.00:837][955]LogTimingProfiler: Shutdown
+[2026.03.16-09.23.00:837][955]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.03.16-09.23.00:837][955]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
