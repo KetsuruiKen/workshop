@@ -1168,3 +1168,57 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.03.16-09.21.47:567][  0]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
 [2026.03.16-09.21.47:567][  0]LogWorldPartition: Display: WorldPartition initialize started...
 [2026.03.16-09.21.47:567][  0]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.16-09.21.47:620][  0]LogWorldPartition: Display: WorldPartition initialize took 52.613 ms
+[2026.03.16-09.21.47:631][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.03.16-09.21.47:649][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.03.16-09.21.47:649][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.03.16-09.21.47:650][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,528ms to complete.
+[2026.03.16-09.21.47:657][  0]LogUnrealEdMisc: Total Editor Startup Time, took 7.724
+[2026.03.16-09.21.47:728][  0]LogSlate: The tab "HomeScreen" attempted to spawn in layout 'UnrealEd_Layout_v1.5' but failed for some reason. It will not be displayed.
+[2026.03.16-09.21.47:728][  0]LogPlacementMode: Display: The Asset Registry is not yet fully loaded so some placeable classes might be missing.
+[2026.03.16-09.21.47:914][  0]LogAssetRegistry: Display: Asset registry cache written as 69.3 MiB to ../../../../../../Users/paula/OneDrive/Documents/Unreal Projects/workshop/workshop/Subway_Surfer_project/Intermediate/CachedAssetRegistry_*.bin
+[2026.03.16-09.21.47:920][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.16-09.21.48:063][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.16-09.21.48:199][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.16-09.21.48:311][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.16-09.21.48:437][  0]LogPakFile: Initializing PakPlatformFile
+[2026.03.16-09.21.48:437][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.6/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2026.03.16-09.21.48:437][  0]LogPakFile: Initializing PakPlatformFile
+[2026.03.16-09.21.48:437][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.6/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2026.03.16-09.21.48:438][  0]LogPakFile: Initializing PakPlatformFile
+[2026.03.16-09.21.48:438][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.6/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2026.03.16-09.21.48:438][  0]LogPakFile: Initializing PakPlatformFile
+[2026.03.16-09.21.48:438][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.6/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2026.03.16-09.21.48:439][  0]LogPakFile: Initializing PakPlatformFile
+[2026.03.16-09.21.48:439][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.6/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2026.03.16-09.21.48:439][  0]LogPakFile: Initializing PakPlatformFile
+[2026.03.16-09.21.48:439][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.6/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2026.03.16-09.21.48:439][  0]LogPakFile: Initializing PakPlatformFile
+[2026.03.16-09.21.48:439][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.6/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2026.03.16-09.21.48:440][  0]LogPakFile: Initializing PakPlatformFile
+[2026.03.16-09.21.48:440][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.6/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2026.03.16-09.21.48:440][  0]LogPakFile: Initializing PakPlatformFile
+[2026.03.16-09.21.48:440][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.6/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2026.03.16-09.21.48:440][  0]LogPakFile: Initializing PakPlatformFile
+[2026.03.16-09.21.48:440][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.6/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2026.03.16-09.21.48:792][  0]LogSlate: Took 0.000139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2026.03.16-09.21.48:794][  0]LogSlate: Took 0.000115 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2026.03.16-09.21.48:795][  0]LogSlate: Took 0.000076 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2026.03.16-09.21.48:991][  0]LogStall: Startup...
+[2026.03.16-09.21.48:994][  0]LogStall: Startup complete.
+[2026.03.16-09.21.49:005][  0]LogLoad: (Engine Initialization) Total time: 9.07 seconds
+[2026.03.16-09.21.49:309][  0]LogContentStreaming: Texture pool size now 600 MB
+[2026.03.16-09.21.49:309][  0]LogCsvProfiler: Display: Metadata set : streamingpoolsizemb="600"
+[2026.03.16-09.21.49:390][  0]LogSlate: Took 0.000092 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2026.03.16-09.21.49:417][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.16-09.21.49:418][  0]LogPython: Display: Running start-up script C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py... started...
+[2026.03.16-09.21.49:445][  0]LogPython: registering <class 'ControlRigWorkflows.workflow_deformation_rig_preset.provider'>
+
+[2026.03.16-09.21.49:450][  0]LogPython: Display: Running start-up script C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py... took 31.764 ms
+[2026.03.16-09.21.49:650][  1]LogAssetRegistry: AssetRegistryGather time 0.0900s: AssetDataDiscovery 0.0078s, AssetDataGather 0.0245s, StoreResults 0.0577s. Wall time 5.8550s.
+	NumCachedDirectories 1523. NumUncachedDirectories 19. NumCachedFiles 7434. NumUncachedFiles 0.
+	BackgroundTickInterruptions 2.
+[2026.03.16-09.21.49:673][  1]LogPlacementMode: Display: The Asset Registry is done with its initial scan, the list of placeable classes has been updated.
+[2026.03.16-09.21.49:681][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000000 seconds (updated 0 objects)
+[2026.03.16-09.21.49:681][  1]LogSourceControl: Uncontrolled asset discovery started...
+[2026.03.16-09.21.49:878][  5]LogSourceControl: Uncontrolled asset discovery finished in 0.197115 seconds (Found 7410 uncontrolled assets)
